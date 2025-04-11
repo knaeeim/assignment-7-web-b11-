@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leather Wallet",
+      "description": "Handcrafted wallet made from genuine leather, perfect for daily use.",
+      "currentBidPrice": 25.99,
+      "timeLeft": "3h 15m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co/60N5W64Z/Vintage-Leather-Wallet.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bluetooth Wireless Earbuds",
+      "description": "High-quality sound, noise cancellation, and long battery life.",
+      "currentBidPrice": 45.00,
+      "timeLeft": "1d 4h",
+      "bidsCount": 27,
+      "image": "https://i.ibb.co/0jZkGNCy/Bluetooth-Wireless-Earbuds.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "currentBidPrice": 68.50,
+      "timeLeft": "6h 50m",
+      "bidsCount": 19,
+      "image": "https://i.ibb.co/5gXJnnsD/Gaming-Mechanical-Keyboard.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Smart Fitness Watch",
+      "description": "Tracks heart rate, steps, sleep, and more with a sleek design.",
+      "currentBidPrice": 89.99,
+      "timeLeft": "2d 1h",
+      "bidsCount": 35,
+      "image": "https://i.ibb.co/F46vnDmb/Smart-Fitness-Watch.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Canon DSLR Camera",
+      "description": "Professional-grade DSLR with 24MP resolution and multiple lenses.",
+      "currentBidPrice": 320.00,
+      "timeLeft": "5h 30m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co/5WQCCsvf/Canon-DSLR-Camera.webp"
+    },
+    {
+      "id": 6,
+      "title": "Antique Wooden Chess Set",
+      "description": "Hand-carved chess set made from solid oak and mahogany.",
+      "currentBidPrice": 150.75,
+      "timeLeft": "12h 10m",
+      "bidsCount": 23,
+      "image": "https://i.ibb.co/ynNjjWTt/Antique-Wooden-Chess-Set.webp"
+    },
+    {
+      "id": 7,
+      "title": "Mountain Bike Helmet",
+      "description": "Lightweight and durable helmet with excellent ventilation.",
+      "currentBidPrice": 39.90,
+      "timeLeft": "8h 20m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co/wrJvhVHy/Mountain-Bike-Helmet.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Classic Vinyl Record Collection",
+      "description": "A set of 10 iconic records from the 70s and 80s in mint condition.",
+      "currentBidPrice": 210.00,
+      "timeLeft": "1d 22h",
+      "bidsCount": 41,
+      "image": "https://i.ibb.co/My7ZZw8B/Classic-Vinyl-Record-Collection.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Portable Mini Projector",
+      "description": "Full HD portable projector with HDMI and wireless support.",
+      "currentBidPrice": 132.45,
+      "timeLeft": "3h 40m",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co/ychFjC7q/Portable-Mini-Projector.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Fountain Pen Set",
+      "description": "Elegant pen with refillable ink cartridges and premium case.",
+      "currentBidPrice": 60.30,
+      "timeLeft": "7h 5m",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co/Xrx3PqgR/Luxury-Fountain-Pen-Set.jpg"
+    }
+]  
